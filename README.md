@@ -1,1 +1,1 @@
-# I am working locally, so to carry out this project, it is necessary to install the required libraries such as cv2. The project aims to detect the gender and age of a person either by uploading an image or by using the webcam
+I am working locally, so to carry out this project, it is necessary to install the required libraries such as cv2. The project aims to detect the gender and age of a person either by uploading an image or by using the webcam
